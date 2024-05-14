@@ -1,0 +1,140 @@
+
+
+h1{
+    width: 200px;
+    border: 3px; 
+    border-style:ridge;
+    border-width: 10px;
+    border-color: aquamarine;
+    font-size: 18px;
+    font-style: italic;
+    
+    padding: 10px 350px 10px;
+    margin-left: 100px;
+
+}
+
+#introduction{
+    margin: 20px auto;
+    background-color:orange;
+    
+}
+div{
+    margin: 15px;
+    border: 10px double green;
+}
+
+.denumire{
+    width: 250px;
+    margin: 30px auto;
+    font-size: 35px;
+    color: red 
+}
+    
+    
+
+.text{
+    width: 620px;
+    margin: 30px auto;
+    border-block: 3px double ;
+    border-block-color:red;
+    padding: 10px;
+    background-color: beige;
+    color: blueviolet;
+    font-size: larger ;
+    font-style: oblique;
+
+
+  
+}
+#copii{
+    margin: 30px auto;
+    width: 1200px;
+    background-color: azure;
+    border-color:green;
+}
+
+
+
+
+.cop{
+    
+    width:400px;
+    margin:20px 370px;
+    border:10px;
+    border-style:groove;
+    border-color: cadetblue;
+    
+    
+
+}
+
+
+#adolescenti{
+    margin: 30px auto;
+    width: 1200px;
+    background-color:azure;
+    border-color:green;
+}
+.blue{
+    color: blue;
+}
+
+.holtei{
+    width:400px;
+    margin:20px 370px;
+    border:10px;
+    border-style:groove;
+    border-color: cadetblue;
+    
+
+}
+
+.text2{
+    width: 620px;
+    margin: 30px auto;
+    border-block: 3px double ;
+    border-block-color:red;
+    padding: 10px;
+    background-color: beige;
+    color: blueviolet;
+    font-size: larger ;
+    font-style: oblique;
+
+}
+
+#maturii{
+    margin: 30px auto;
+    width: 1200px;
+    background-color:azure;
+    border-color:green;
+}
+
+.virsta{
+ 
+    width: 620px;
+    margin: 30px auto;
+    border-block: 3px double ;
+    border-block-color:red;
+    padding: 10px;
+    background-color: beige;
+    color: blueviolet;
+    font-size: larger ;
+    font-style: oblique;
+}
+
+.matt{
+
+    width:400px;
+    margin:20px 370px;
+    border:10px;
+    border-style:groove;
+    border-color: cadetblue;   
+}
+.wiki{
+    width:200px;
+    margin:10px 600px;
+    border:10px;
+    border-style:hidden;
+      
+}
